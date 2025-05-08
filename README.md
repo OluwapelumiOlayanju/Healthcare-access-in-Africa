@@ -54,7 +54,7 @@ Does more funding improve emergency response?
 
 Which facility type is most efficient per patient visit?
 
-##KPIs
+## KPIs
 Countries analyzed: 10
 
 Facility types: 3 (Clinics, Hospitals, Health Centers)
